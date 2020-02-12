@@ -10,8 +10,8 @@ const PAGES = [
     title: "Cross Section",
     slug: "cross-section",
     id: "cs",
-    cover: "https://source.unsplash.com/R3ANjUQosBU/1600x900",
-    thumb: "https://source.unsplash.com/R3ANjUQosBU/800x450",
+    cover: "/static/img/cross-section.png",
+    thumb: "/static/img/cross-section@big.png",
     quote: `"Perspective projection" redirects here. For a more mathematical treatment, see Perspective transform.`,
     description:
       "Perspective (from Latin: perspicere 'to see through') Linear or Point projection perspective is one of two types of Graphical projection perspective in the graphic arts (The other type is Parallel projection). Linear perspective is an approximate representation, generally on a flat surface (such as paper), of an image as it is seen by the eye. The most characteristic features of Linear perspective are that objects appear smaller as their distance from the observer increases; and that they are subject to foreshortening, meaning that an object's dimensions along the line of sight appear shorter than its dimensions across the line of sight. Also all objects will recede to points in the distance, usually along the horizon line, but also above and below the horizon line depending on view used.",
@@ -34,8 +34,8 @@ const PAGES = [
     title: "Cutaway drawing",
     slug: "cutaway-drawing",
     id: "cd",
-    cover: "https://source.unsplash.com/PC3RTiJQ-d4/1600x900",
-    thumb: "https://source.unsplash.com/PC3RTiJQ-d4/800x450",
+    cover: "/static/img/cutaway-drawing.png",
+    thumb: "/static/img/cutaway-drawing@big.png",
     quote: `"Perspective projection" redirects here. For a more mathematical treatment, see Perspective transform.`,
     description:
       "Perspective (from Latin: perspicere 'to see through') Linear or Point projection perspective is one of two types of Graphical projection perspective in the graphic arts (The other type is Parallel projection). Linear perspective is an approximate representation, generally on a flat surface (such as paper), of an image as it is seen by the eye. The most characteristic features of Linear perspective are that objects appear smaller as their distance from the observer increases; and that they are subject to foreshortening, meaning that an object's dimensions along the line of sight appear shorter than its dimensions across the line of sight. Also all objects will recede to points in the distance, usually along the horizon line, but also above and below the horizon line depending on view used.",
@@ -58,8 +58,8 @@ const PAGES = [
     title: "Reciprocating motion",
     slug: "reciprocating-motion",
     id: "rm",
-    cover: "https://source.unsplash.com/YTcLku3hteQ/1600x900",
-    thumb: "https://source.unsplash.com/YTcLku3hteQ/800x450",
+    cover: "/static/img/reciprocating-motion.png",
+    thumb: "/static/img/reciprocating-motion@big.png",
     quote: `"Perspective projection" redirects here. For a more mathematical treatment, see Perspective transform.`,
     description:
       "Perspective (from Latin: perspicere 'to see through') Linear or Point projection perspective is one of two types of Graphical projection perspective in the graphic arts (The other type is Parallel projection). Linear perspective is an approximate representation, generally on a flat surface (such as paper), of an image as it is seen by the eye. The most characteristic features of Linear perspective are that objects appear smaller as their distance from the observer increases; and that they are subject to foreshortening, meaning that an object's dimensions along the line of sight appear shorter than its dimensions across the line of sight. Also all objects will recede to points in the distance, usually along the horizon line, but also above and below the horizon line depending on view used.",
@@ -82,8 +82,8 @@ const PAGES = [
     title: "Perspective",
     slug: "perspective",
     id: "pp",
-    cover: "https://source.unsplash.com/B8ZFV4E0YOw/1600x900",
-    thumb: "https://source.unsplash.com/B8ZFV4E0YOw/800x450",
+    cover: "/static/img/perspective.png",
+    thumb: "/static/img/perspective@big.png",
     quote: `"Perspective projection" redirects here. For a more mathematical treatment, see Perspective transform.`,
     description:
       "Perspective (from Latin: perspicere 'to see through') Linear or Point projection perspective is one of two types of Graphical projection perspective in the graphic arts (The other type is Parallel projection). Linear perspective is an approximate representation, generally on a flat surface (such as paper), of an image as it is seen by the eye. The most characteristic features of Linear perspective are that objects appear smaller as their distance from the observer increases; and that they are subject to foreshortening, meaning that an object's dimensions along the line of sight appear shorter than its dimensions across the line of sight. Also all objects will recede to points in the distance, usually along the horizon line, but also above and below the horizon line depending on view used.",
